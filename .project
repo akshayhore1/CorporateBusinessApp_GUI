@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HW4_CorpBusinessApp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/HW5_GUI.java</name>
+			<type>1</type>
+			<location>C:/Users/aksha/Downloads/Study/Semester 2/IDS 517 Enterprise Application Development/Code by Akshay/HW4_CoropBusinessApp/src/HW5_GUI.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
